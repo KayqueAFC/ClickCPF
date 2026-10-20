@@ -16,10 +16,10 @@ O programa utiliza o arquivo vendedores.txt para armazenar os cadastros. Cada li
 
 Exemplo:
 
-''''
+```python
 João Silva,123.456.789-00
 Maria Oliveira,987.654.321-00
-''''
+```
 
 Se o arquivo não existir, a aplicação abre com a lista vazia. Ao adicionar ou excluir vendedores, o programa atualiza o arquivo automaticamente.
 
